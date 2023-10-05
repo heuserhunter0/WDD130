@@ -1,0 +1,9 @@
+p.hover {
+    background-color: pink;
+    color: black;
+}
+img {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
