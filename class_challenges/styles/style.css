@@ -1,9 +1,21 @@
-p.hover {
+body{
+    width: 1000px;
     background-color: pink;
-    color: black;
+    
 }
-img {
-    width: 30%;
-    display: block;
+.maincontent{
+    width: 450px;
+    background-color: pink;
     margin: 0 auto;
+    text-align: center;
+}
+*main{
+    text-align: center;
+    color:black;
+}
+h1:hover{
+    color:black;
+}
+h1{
+    color:white;
 }
