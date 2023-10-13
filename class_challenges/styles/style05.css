@@ -1,0 +1,14 @@
+body img{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+footer img{
+    border-radius: 50%;
+    width: 20%;
+    border: 10px;
+}
+footer{
+    background-color: grey;
+    margin: 0 auto;
+}
